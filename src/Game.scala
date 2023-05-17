@@ -6,7 +6,7 @@ import scala.swing.event._
 import java.awt.Font
 
 
-object Main extends App {
+object Game extends App {
   val rows = Integer.parseInt(args(0))
   val cols = Integer.parseInt(args(1))
   val bombCount = Integer.parseInt(args(2))
