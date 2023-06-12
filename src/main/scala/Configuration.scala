@@ -38,7 +38,8 @@ object Configuration extends App {
       val bombs: String = inputFieldBomb.text
       if (rows.forall(_.isDigit) && cols.forall(_.isDigit) && bombs.forall(_.isDigit)
         && !rows.equals("") && !cols.equals("") && !bombs.equals("")) {
-        Game.main(Array(rows, cols, bombs))
+        UI.main(Array(rows, cols, bombs))
+
       } else {
         Dialog.showMessage(null, "Invalid arguments: required numbers", "Configuration Error", Dialog.Message.Error)
       }
@@ -70,3 +71,4 @@ object Configuration extends App {
     topFrame.visible = true
   }
 }
+

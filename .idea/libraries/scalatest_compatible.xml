@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="scalatest.compatible" type="repository">
+    <properties maven-id="org.scalatest:scalatest-compatible:3.2.14" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scalatest/scalatest-compatible/3.2.14/scalatest-compatible-3.2.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
