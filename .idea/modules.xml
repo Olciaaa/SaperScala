@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SAPER.iml" filepath="$PROJECT_DIR$/SAPER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestProjekt.iml" filepath="$PROJECT_DIR$/.idea/modules/TestProjekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestProjekt-build.iml" filepath="$PROJECT_DIR$/.idea/modules/TestProjekt-build.iml" />
     </modules>
   </component>
 </project>
